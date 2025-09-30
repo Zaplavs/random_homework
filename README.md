@@ -13,7 +13,7 @@
 Сначала вам нужно скопировать все файлы этого проекта к себе на компьютер. Откройте терминал (или Git Bash на Windows) и выполните команду:
 
 ```bash
-git clone https://github.com/your-repo/random_homework.git
+git clone https://github.com/Zaplavs/random_homework.git
 cd random_homework
 ```
 
